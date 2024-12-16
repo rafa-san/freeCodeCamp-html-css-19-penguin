@@ -25,8 +25,6 @@ Os principais tópicos abordados foram:
 
 Mais uma vez o **freeCodeCamp** se destacou pela criatividade e didática. O projeto não apenas ensina as propriedades de forma clara, mas também demonstra como aplicá-las em projetos pessoais, reforçando a importância da prática para o aprendizado.
 
-A possibilidade de criar algo tão interativo com conceitos relativamente simples é um dos grandes pontos fortes desta trilha.
-
 ## 3️⃣ Principais Modificações
 Este projeto foi desenvolvido conforme as orientações do curso, sem alterações adicionais.
 
@@ -43,7 +41,7 @@ Este projeto foi desenvolvido conforme as orientações do curso, sem alteraçõ
 </div>
 
 ## 5️⃣ Créditos
-Agradeço ao freeCodeCamp por oferecer cursos gratuitos de altíssima qualidade, que não apenas ampliaram meus conhecimentos, mas também contribuíram muito para a construção do meu portfólio.
+Agradeço ao **freeCodeCamp** por oferecer cursos gratuitos de altíssima qualidade, que não apenas ampliaram meus conhecimentos, mas também contribuíram muito para a construção do meu portfólio.
 - <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp 🔗</a>
 
 ## 6️⃣ Licença
